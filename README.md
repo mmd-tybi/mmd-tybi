@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alone-Wolf13785
-- 👀 I’m interested in every technology around computer and it
+- 👀 I’m interested in every technology around computer and IT
 - 🌱 I’m currently learning node.js and maybe java
 - 💞️ I’m looking to collaborate on my friend's startup
 - 📫 How to reach me : mohammadtaiby13785@gmail.com
