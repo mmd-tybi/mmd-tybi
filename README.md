@@ -1,4 +1,4 @@
 - Hello there, I'm Mohammad
 - A/An *nix user by honor
-- I develope in nodejs and sometimes in C but I'll be happy to co-operate on other codebases too(especially old ones. eg: haskell, fortran... .)
+- I develope in nodejs and sometimes in C but I'll be happy to co-operate on other codebases too(especially old ones. eg: haskell, fortran..)
 - Current status: Close-sourced company project, Some game-development for hobby(completely new to this article) and a side project written in C 
