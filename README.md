@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Alone-Wolf13785
-- 👀 I’m interested in every technology around computer and IT
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on my friend's startup
-- 📫 How to reach me : mohammadtaiby13785@gmail.com
-
-<!---
-Alone-Wolf13785/Alone-Wolf13785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hello there, I'm Mohammad
+- A/An *nix user by honor
+- I develope in nodejs and sometimes in C but I'll be happy to co-operate on other codebases too(especially old ones. eg: haskell, fortran... .)
+- Current status: Close-sourced company project, Some game-development for hobby(completely new to this article) and a side project written in C 
